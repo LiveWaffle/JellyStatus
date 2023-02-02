@@ -7,7 +7,7 @@ A watch status for you're jellyfin server on discord.
 ## Instructions
 
 
-Make a new api key under dashboard
+Install visual studio code and then make a new api key under dashboard
 
 ![image](https://user-images.githubusercontent.com/115643866/216474840-dd4cefae-49d4-4333-b72e-23a7aa17bb7b.png)
 
