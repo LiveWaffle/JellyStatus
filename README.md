@@ -1,4 +1,6 @@
-[org jellyfin expo-large](https://user-images.githubusercontent.com/115643866/216472828-847d5bea-0075-47b0-ab6c-3e1d111f1ec1.png)
+![org jellyfin expo-large](https://user-images.githubusercontent.com/115643866/216472903-17df2432-1a08-400a-87cf-1a5f696c5c57.png)
+
 
 # JellyStatus!
+
 
