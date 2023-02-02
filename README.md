@@ -2,7 +2,7 @@
 
 # JellyStatus!
 
-A watch status for you're jellyfin server
+A watch status for you're jellyfin server on discord.
 
 ## Instructions
 
